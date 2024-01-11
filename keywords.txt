@@ -1,0 +1,37 @@
+##############################################
+# Coloring Map For (BM25S3421-1)
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM25S3421_1	KEYWORD1
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+getSTATUS	KEYWORD2
+readVOCLevel	KEYWORD2
+readADValue	KEYWORD2
+readParam	KEYWORD2
+isInfoAvailable	KEYWORD2
+readInfoPackage	KEYWORD2
+writeCommand	KEYWORD2
+reset	KEYWORD2
+requestInfoPackage	KEYWORD2
+restoreDefault	KEYWORD2
+calibrateModule	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
+BAUDRATE	LITERAL1
+CHECK_OK	LITERAL1
+CHECK_ERROR	LITERAL1
+TIMEOUT_ERROR	LITERAL1
+AUTO_MODE	LITERAL1
+CMD_MODE	LITERAL1
+HIGH_LEVEL	LITERAL1
+LOW_LEVEL	LITERAL1
+LEVEL1	LITERAL1
+LEVEL2	LITERAL1
+LEVEL3	LITERAL1
+LEVEL4	LITERAL1
