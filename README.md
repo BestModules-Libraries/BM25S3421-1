@@ -1,11 +1,20 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BM25S3421-1_V1.0.png" width="240" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BM25S3421-1_BME53M421_V1.0.png" width="240" height="240"> 
 </div> 
 
 BM25S3421-1
 ===========================================================
 
 The Best Modules BM25S3421-1 is a VOC digital sensor, which uses the UART communication mode. This document provides the description of the BM25S3421-1 Arduino Lib functions and how to install the Arduino Lib. The example uses the BME53M421 module to demonstrate the function of reading VOC concentration information.
+
+#### Applicable types:
+<div align=center>
+
+|Part No.   |Description                           |
+|:---------:|:------------------------------------:|
+|BM25S3421-1|VOC digital sensor                  |
+|BME53M421  |On-board BM25S3421-1 sensor|
+</div> 
 
 This library can be installed via the Arduino Library manager. Search for **BM25S3421-1**. 
 
