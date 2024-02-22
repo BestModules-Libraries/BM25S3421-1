@@ -5,7 +5,7 @@
 BM25S3421-1
 ===========================================================
 
-The BM25S3421-1 is a VOC digital sensor launched by Betron, using UART communication mode.This document describes the Arduino Lib function of the BM25S3421-1 Arduino Lib installation example uses the BME53M421 module to demonstrate the function of reading VOC gas related information
+The Best Modules BM25S3421-1 is a VOC digital sensor, which uses the UART communication mode. This document provides the description of the BM25S3421-1 Arduino Lib functions and how to install the Arduino Lib. The example uses the BME53M421 module to demonstrate the function of reading VOC concentration information.
 
 This library can be installed via the Arduino Library manager. Search for **BM25S3421-1**. 
 
